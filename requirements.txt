@@ -1,0 +1,12 @@
+requests
+pandas
+yfinance
+numpy
+matplotlib
+scikit-learn
+nltk
+newsapi-python
+transformers
+reportlab
+torch
+tensorflow
